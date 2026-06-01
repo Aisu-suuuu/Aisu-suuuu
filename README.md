@@ -40,5 +40,6 @@ I am committed to closing the gap between high-fidelity design and technical exe
 I build to explore the synergy between human creativity and AI-native workflows, using multi-agent swarms and agentic loops to push the boundaries of what is possible.
 
 # Let's Connect :
-https://www.linkedin.com/in/solletiaishwarya/
+GitHub : https://github.com/Aishwarya-solleti18
+LinkedIn : https://www.linkedin.com/in/solletiaishwarya/
 Portfolio : 
